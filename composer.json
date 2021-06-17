@@ -10,6 +10,10 @@
         {
             "name": "Philip Manavopoulos",
             "email": "manavo@gmail.com"
+        },
+        {
+            "name": "Daniel Beuter",
+            "email": "beuterdaniel@gmail.com"
         }
     ],
     "require": {
