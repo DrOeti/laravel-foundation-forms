@@ -6,7 +6,7 @@ You can find the original article here: http://blog.stidges.com/post/easy-bootst
 ## Install
 
 ```
-composer require ckdot/laravel-foundation-forms:~0.1
+composer require droeti/laravel-foundation-forms:~0.1
 ```
 
 ## Configure
@@ -22,7 +22,7 @@ return array(
     'providers' => array(
         // ...
         //Illuminate\Html\HtmlServiceProvider::class,
-        Ckdot\FoundationForms\FoundationFormsServiceProvider::class,
+        DrOeti\FoundationForms\FoundationFormsServiceProvider::class,
         // ...
     ),
     // ...

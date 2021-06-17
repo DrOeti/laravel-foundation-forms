@@ -1,6 +1,6 @@
 <?php
 
-namespace Ckdot\FoundationForms;
+namespace DrOeti\FoundationForms;
 
 use Collective\Html\HtmlServiceProvider as CollectiveHtmlServiceProvider;
 
@@ -23,7 +23,7 @@ class FoundationFormsServiceProvider extends CollectiveHtmlServiceProvider
     {
         $app = $this->app;
         if (version_compare($app::VERSION, '5.0') < 0) {
-            $this->package('ckdot/foundation-forms');
+            $this->package('droeti/foundation-forms');
         }
     }
 

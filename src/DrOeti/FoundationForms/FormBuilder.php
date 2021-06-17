@@ -1,6 +1,6 @@
 <?php
 
-namespace Ckdot\FoundationForms;
+namespace DrOeti\FoundationForms;
 
 use Collective\Html\FormBuilder as CollectiveFormBuilder;
 
