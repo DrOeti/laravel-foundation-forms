@@ -21,8 +21,8 @@
         "laravelcollective/html": "^5.0"
     },
     "autoload": {
-        "psr-0": {
-            "Droeti\\FoundationForms\\": "src/"
+        "psr-4": {
+            "Droeti\\FoundationForms\\": "src/Droeti/FoundationForms"
         }
     },
     "minimum-stability": "stable"
