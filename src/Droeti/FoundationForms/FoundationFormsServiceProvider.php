@@ -1,6 +1,6 @@
 <?php
 
-namespace DrOeti\FoundationForms;
+namespace Droeti\FoundationForms;
 
 use Collective\Html\HtmlServiceProvider as CollectiveHtmlServiceProvider;
 
