@@ -32,7 +32,7 @@ class FoundationFormsServiceProvider extends CollectiveHtmlServiceProvider
      *
      * @return void
      */
-    public function registerFormBuilder()
+    public function register()
     {
         $this->app->singleton('form', function ($app) {
             $form = new FormBuilder(
