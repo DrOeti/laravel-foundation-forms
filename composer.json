@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Droeti\\FoundationForms\\": "src/Droeti/FoundationForms"
+            "Droeti\\FoundationForms\\": "src/"
         }
     },
     "minimum-stability": "stable"
